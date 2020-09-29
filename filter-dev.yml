@@ -1,0 +1,4 @@
+# ip 限制
+filter:
+  minute: 1
+  times: 100
