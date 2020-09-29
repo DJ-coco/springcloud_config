@@ -1,0 +1,10 @@
+spring:
+  # mail
+  mail:
+    # 用户名
+    username: pasta0101@qq.com
+    # 授权码
+    password: yyxpuazkvcxobdhh
+    # 邮箱供应的 SMTP 地址
+    host: smtp.qq.com
+    port: 587
