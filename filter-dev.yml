@@ -1,4 +1,4 @@
 # ip 限制
 filter:
   minute: 1
-  times: 10
+  times: 100
